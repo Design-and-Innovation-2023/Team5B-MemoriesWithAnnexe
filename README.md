@@ -1,8 +1,7 @@
 # Team5B-MemoriesWithAnnexe
 
 This website is a compilation of our team's journey throughout this project working with The Annexe.
-
-- Our team members are:
+ Our team members are:
 - 2717953T Jacelyn Tay Xin Ni
 - 2717924N Ng Jun Heng
 - 2717900L Low Li Pin
