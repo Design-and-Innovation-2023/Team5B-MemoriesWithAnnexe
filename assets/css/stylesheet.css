@@ -2087,6 +2087,87 @@ August 3
 
 /*
 ---------------------------------------------
+August 4
+---------------------------------------------
+*/
+
+#aug4 {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  border-bottom: 3px dotted #eee;
+}
+
+#aug4 .left-content {
+  margin-right: 30px;
+}
+
+#aug4 .left-content h3 {
+  font-size: 28px;
+  font-weight: 600;
+  color: #2a2a2a;
+}
+
+#aug4 .left-content p {
+  font-size: 14px;
+  color: #2a2a2a;
+  font-weight: 500;
+  display: block;
+  margin-top: 25px;
+}
+
+#aug4 .left-content ol {
+  font-size: 14px;
+  color: #2a2a2a;
+  font-weight: 500;
+  display: block;
+  margin-top: 25px;
+}
+
+#aug4 .left-content li {
+  list-style-type: disc;
+  margin-left: 20px;
+}
+
+#aug4 .left-content .main-border-button a {
+  color: #2a2a2a;
+  border-color: #2a2a2a;
+  margin-top: 35px;
+}
+
+#aug4 .left-content .main-border-button a:hover {
+  background-color: #2a2a2a;
+  color: #fff;
+}
+
+#aug4 img {
+  width: 100%;
+  overflow: hidden;
+}
+
+#aug4 .right-content p{
+  font-style: italic;
+  font-size: 12px;;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+#aug4 .leather {
+  margin-bottom: 30px;
+}
+
+#aug4 .first-image {
+  margin-bottom: 25px;
+  margin-left: 20px;
+}
+
+#aug4 .second-image {
+  margin-bottom: 5px;
+  margin-left: 20px;
+}
+
+
+/*
+---------------------------------------------
 Reflection
 ---------------------------------------------
 */
